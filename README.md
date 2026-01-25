@@ -75,6 +75,24 @@ The Reality Mining dataset consists of human contact data among 100 students fro
 
 The configurations, such as `lookback` and `embedding_size`, are set in the `config.json` file. You can modify these settings directly to suit your experiment needs.
 
+
+## Citation
+
+If you find this repository or the released model helpful, please cite our paper.
+
+
+- Pandey, A. P., Varghese, A. J., Patil, S., & Xu, M. (2024). A Comparative Study on Dynamic Graph Embedding based on Mamba and Transformers. arXiv preprint. Available at [https://arxiv.org/abs/2412.11293](https://arxiv.org/abs/2412.11293)
+
+BibTeX:
+```bibtex
+@article{pandey2024comparative,
+  title={A Comparative Study on Dynamic Graph Embedding based on Mamba and Transformers},
+  author={Pandey, Ashish Parmanand and Varghese, Alan John and Patil, Sarang and Xu, Mengjia},
+  journal={arXiv preprint arXiv:2412.11293},
+  year={2024}
+}
+```
+
 ## Citation
 
 If you find this repository or the released model helpful, please cite our paper.
