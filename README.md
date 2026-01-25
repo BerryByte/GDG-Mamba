@@ -93,11 +93,5 @@ BibTeX:
 }
 ```
 
-## Citation
-
-If you find this repository or the released model helpful, please cite our paper.
-
-
-
 (If you have any questions or suggestions, please do not hesitate to contact us or open an issue on the GitHub repository. Your feedback is greatly appreciated!)
 
